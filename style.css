@@ -1,0 +1,67 @@
+
+h1 {
+  border-radius: 30px;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 10px;
+  height: 40px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+td {
+
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 30px;
+  font-size: 72px;
+  text-align: center;
+}
+td:hover {
+  
+  animation-name: rotate;
+  animation-duration: 0.7s;
+  animation-direction: reverse;
+}
+
+#turn {
+  border-radius: 30px;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 10px;
+  height: 40px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#reset {
+
+  border-radius: 30px;
+  font-size: 18px;
+  margin-top: 20px;
+  padding: 10px;
+  height: 40px;
+ 
+}
+
+html {
+  width: auto;
+  height: auto;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
