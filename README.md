@@ -7,3 +7,11 @@ Created by @Everlin
 I added a twirl effect to it just to make it look a bit more flashy
 
 ![STTT](https://user-images.githubusercontent.com/119197050/233877457-b070ef02-f28f-4695-aa4a-46b753e445e5.gif)
+
+It is programmed simply with these three languages 
+
+JavaScript 50.9%
+
+CSS 30.9%
+
+HTML 18.2%
