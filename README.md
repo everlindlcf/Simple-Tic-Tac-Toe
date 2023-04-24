@@ -15,3 +15,6 @@ JavaScript 50.9%
 CSS 30.9%
 
 HTML 18.2%
+
+Size
+3.13 KB (3,215 bytes)
